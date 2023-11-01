@@ -48,4 +48,4 @@ Link sourcode : [https://github.com/ikhsannhlm/pizza_shop.git](https://github.co
 
 **Instagram**: [@ikhsannhlm_](https://instagram.com/ikhsannhlm_)
 
-**Website**: [Muhammad Ikhsan N]([https://ikhsan.github.io/cv](https://ikhsannhlm.github.io/cv/)
+**Website**: [Muhammad Ikhsan Nurhalim](https://ikhsan.github.io/cv](https://ikhsannhlm.github.io/cv/)
