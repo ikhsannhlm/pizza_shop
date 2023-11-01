@@ -44,6 +44,8 @@ Link sourcode : [https://github.com/ikhsannhlm/pizza_shop.git](https://github.co
 
 ### Kontak
 
-Wa : [+62 8810221 00630](https://wa.me/881022100630)
-Instagram: [@ikhsannhlm_](https://instagram.com/ikhsannhlm_)
-Website: [Muhammad Ikhsan N](https://ikhsan.github.io/cv)
+**Wa** : [+62 8810221 00630](https://wa.me/881022100630)
+
+**Instagram**: [@ikhsannhlm_](https://instagram.com/ikhsannhlm_)
+
+**Website**: [Muhammad Ikhsan N](https://ikhsan.github.io/cv)
