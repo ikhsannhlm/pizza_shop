@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dropdown_items">
+        <item>Majalaya</item>
+        <item>Cipadung</item>
+        <item>Gedebage</item>
+        <item>Ciparay</item>
+        <item>Cicalengka</item>
+        <item>Sapan</item>
+    </string-array>
+</resources>
