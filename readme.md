@@ -40,7 +40,7 @@ Pizza Shop merupakan aplikasi demo pemesanan Pizza secara online, aplikasi ini d
 
 ### Link Source code
 
-Link sourcode : [https://github.com/fikiap23/UTS-PAM_Pizza.git](https://github.com/ikhsannhlm/pizza_shop.git)
+Link sourcode : [https://github.com/ikhsannhlm/pizza_shop.git](https://github.com/ikhsannhlm/pizza_shop.git)
 
 ### Kontak
 
